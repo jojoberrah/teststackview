@@ -12,6 +12,8 @@
 		990C17552201B63800D69A2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 990C17532201B63800D69A2D /* Main.storyboard */; };
 		990C17572201B63900D69A2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 990C17562201B63900D69A2D /* Assets.xcassets */; };
 		990C175A2201B63900D69A2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 990C17582201B63900D69A2D /* LaunchScreen.storyboard */; };
+		990C17622201B92B00D69A2D /* heart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 990C17612201B92B00D69A2D /* heart.jpg */; };
+		990C17642201BF2900D69A2D /* Screen Shot 2018-11-29 at 5.32.05 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 990C17632201BF2900D69A2D /* Screen Shot 2018-11-29 at 5.32.05 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		990C17562201B63900D69A2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		990C17592201B63900D69A2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		990C175B2201B63900D69A2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		990C17612201B92B00D69A2D /* heart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = heart.jpg; sourceTree = "<group>"; };
+		990C17632201BF2900D69A2D /* Screen Shot 2018-11-29 at 5.32.05 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-11-29 at 5.32.05 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				990C17512201B63800D69A2D /* ViewController.swift */,
 				990C17532201B63800D69A2D /* Main.storyboard */,
 				990C17562201B63900D69A2D /* Assets.xcassets */,
+				990C17632201BF2900D69A2D /* Screen Shot 2018-11-29 at 5.32.05 PM.png */,
+				990C17612201B92B00D69A2D /* heart.jpg */,
 				990C17582201B63900D69A2D /* LaunchScreen.storyboard */,
 				990C175B2201B63900D69A2D /* Info.plist */,
 			);
@@ -122,9 +128,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				990C17622201B92B00D69A2D /* heart.jpg in Resources */,
 				990C175A2201B63900D69A2D /* LaunchScreen.storyboard in Resources */,
 				990C17572201B63900D69A2D /* Assets.xcassets in Resources */,
 				990C17552201B63800D69A2D /* Main.storyboard in Resources */,
+				990C17642201BF2900D69A2D /* Screen Shot 2018-11-29 at 5.32.05 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
